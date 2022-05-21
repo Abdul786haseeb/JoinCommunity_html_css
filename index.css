@@ -1,0 +1,122 @@
+div { 
+    border: 1px dashed grey;
+}
+
+h1 {
+    text-align: center;
+    text-indent: -130px;
+}
+
+h2 {
+    text-align: center;
+    text-indent: 60px;
+}
+p {
+    text-align: center;
+    text-indent: 110px;
+}
+
+.table{
+    color: dimgray;
+    text-indent: 90px;
+}
+
+.leftside, .rightside {
+    height: 50%;
+    width: 50%;
+}
+
+.rightside {
+    background-color:aqua;
+}
+
+.section1 {
+    background-color: rgb(38, 175, 164);
+    width:49vw;
+    height:49vh;
+    padding: 0%;
+    float:left;
+    border-radius: 15px;
+}
+
+.section2 {
+    background-color:rgb(37, 223, 130);
+    width:48.29vw;
+    height:49vh;
+    padding: 0%;
+    float:right;
+    border-radius: 15px;
+
+}
+
+.section1 {
+   
+    text-indent: -200px;
+
+}
+
+.section2 { 
+    color: aliceblue; 
+    text-indent: 200px;
+    text-align: left;
+}
+
+.top, .top1, .top5  {
+    text-indent: -300px;
+}
+
+.top2 {
+    text-indent: -390px;
+}
+
+.top4 {
+    text-indent: -375px;
+}
+
+.top3 {
+    text-indent: -310px;
+}
+
+.top5 {
+    text-indent: -390px;
+}
+
+.top, .top1, .top2, .top3, .top4, .top5, .top6 {
+    padding: 0.1%;
+    margin: 0.1%;
+}
+
+.top6 {
+    text-indent: -335px;
+}
+
+
+.topp {
+    text-indent: -320px; 
+    
+}
+
+.topp1 {
+    text-indent: -230px; 
+}
+
+.topp2 { 
+    text-indent: -400px;
+}
+
+.section1, .topp, .topp1, .topp2 {
+    padding: 0%;
+    margin: 0%;
+}
+
+button {
+    padding: 10px 70px;
+    position: absolute;
+  left: 120px;<br><BR>
+  bottom: 500px;
+}
+
+.fancy-text {
+    font-size:28px;
+
+}
